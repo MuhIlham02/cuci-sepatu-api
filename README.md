@@ -29,3 +29,16 @@ Proyek ini adalah REST API sederhana untuk mengelola daftar sepatu yang sedang d
 
 ### 1️⃣ GET semua item
 **Request**
+
+**Response**
+```json
+[
+  {
+    "id": 1,
+    "nama": "Sepatu Converse",
+    "merek": "Converse",
+    "harga": 25000,
+    "status": "Proses"
+  }
+]
+
