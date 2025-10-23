@@ -1,0 +1,11 @@
+GET http://localhost:3000/items
+###
+POST http://localhost:3000/items
+Content-Type: application/json
+
+{
+  "nama": "Sepatu Vans",
+  "merek": "Vans",
+  "status": "Selesai",
+  "tanggal_masuk": "2025-10-22"
+}
