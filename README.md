@@ -185,7 +185,7 @@ Setelah semua selesai, upload dua hal berikut:
 
 ## 👨‍💻 Author
 
-Dibuat oleh **[Nama Kamu]** untuk tugas mata kuliah [Nama Mata Kuliah]
+Dibuat oleh **[Muhammad Ilham]** untuk tugas mata kuliah [Prak PPB Modul 01 Shift 01 Kelompok 04]
 
 ---
 
